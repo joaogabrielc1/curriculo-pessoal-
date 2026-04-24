@@ -1,4 +1,4 @@
-# 📄 Currículo Online - João Gabriel Coelho
+# 📄 Currículo - João Gabriel Coelho
 
 Este é um projeto de currículo digital responsivo, estruturado com **HTML5** e estilizado com **CSS3** utilizando as técnicas de **CSS Grid Layout** e **Flexbox**.
 
