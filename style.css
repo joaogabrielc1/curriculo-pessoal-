@@ -78,7 +78,7 @@ main {
 
 aside {
     grid-area: aside;
-    background-color: lightpink;
+    background-color: lightblue;
     padding: 20px;
     border-radius: 8px;
 }
@@ -146,9 +146,7 @@ hr {
 }
 
 .badge {
-    position: absolute;
-    top: 10px;
-    right: 10px;
+    display: inline-block;
     background-color: rgb(43, 94, 170);
     color: white;
     font-size: 11px;
